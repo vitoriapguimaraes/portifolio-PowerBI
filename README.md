@@ -10,20 +10,36 @@ Este repositório contém dashboards desenvolvidos no Power BI, com foco em estu
 
 <strong>Abaixo está a lista dos projetos desenvolvidos, com foco em estudos práticos na ferramenta Power BI, visando a construção de um portfólio com cenários reais do dia a dia:</strong>
 
-[![Dashboard](https://img.shields.io/badge/1.%20Dashboard%20x-black?style=flat-square)](link)<br>
+[![Dashboard](https://img.shields.io/badge/1.%20Dashboard%20Vendas-black?style=flat-square)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashborad%20Vendas)<br>
 [![Dashboard](https://img.shields.io/badge/2.%20Dashboard%20y-black?style=flat-square)](link)<br>
 [![Dashboard](https://img.shields.io/badge/3.%20Dashboard%20z-black?style=flat-square)](link)
 
 ## 1. Dashboard Analítico de Vendas
 
-![Video do dashboard](link)
+![Video do dashboard](https://github.com/vitoriapguimaraes/portifolio-PowerBI/blob/main/Dashborad%20Vendas/display-DashboardVendas.gif)
 
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](link)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashborad%20Vendas)
 
 ### Estrutura da base de dados
-Arquivo dataset.csv que contém inicialmente as seguintes colunas:
-ID_Pedido, Data_Pedido, ID_Cliente, Segmento, Regiao, Pais, Product ID, Categoria, SubCategoria, Total_Vendas, Quantidade, Desconto, Lucro, Prioridade
+
+Arquivo dataset.csv contém inicialmente as seguintes colunas:
+  - ID_Pedido
+  - Data_Pedido
+  - ID_Cliente
+  - Segmento
+  - Regiao
+  - Pais
+  - Product ID
+  - Categoria
+  - SubCategoria
+  - Total_Vendas
+  - Quantidade
+  - Desconto
+  - Lucro
+  - Prioridade
+
 Nenhuma nova coluna foi criada a partir dos dados.
+
 Quantidade total dos dados: 51.290
 
 ## 2. Dashboard 
