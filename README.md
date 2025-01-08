@@ -21,12 +21,15 @@ Este repositório contém dashboards desenvolvidos no Power BI, com foco em estu
 [![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](link)
 
 ### Estrutura da base de dados
+
+<!-- 
 Exemplo:
 Arquivo dataset.xlsx que contém inicialmente as seguintes colunas:
 Nenhuma nova coluna foi criada a partir dos dados.
 Arquivo Fretes.xlsx que contém inicialmente as seguintes colunas:
 Colunas criadas a partir dos dados:
 Quantidade total dos dados: 23.888
+-->
 
 <br>
 <hr> 
