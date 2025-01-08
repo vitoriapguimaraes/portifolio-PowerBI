@@ -8,7 +8,7 @@
 
 Este repositório contém dashboards desenvolvidos no Power BI, com foco em estudos e aplicações práticas. Além disso, inclui conteúdos sobre análise de dados, machine learning, SQL e R, demonstrando como essas ferramentas podem ser usadas de forma integrada para extrair insights e resolver problemas de negócios.
 
-<strong>Abaixo está a lista dos projetos desenvolvidos, com foco em estudos práticos na ferramenta Power BI, visando a construção de um portfólio com cenários reais do dia a dia:</strong>
+<strong>Abaixo está a lista dos projetos desenvolvidos:</strong>
 
 [![Dashboard](https://img.shields.io/badge/1.%20Dashboard%20Vendas-black?style=flat-square)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashborad%20Vendas)<br>
 [![Dashboard](https://img.shields.io/badge/2.%20Dashboard%20y-black?style=flat-square)](link)<br>
