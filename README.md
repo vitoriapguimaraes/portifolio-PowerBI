@@ -10,15 +10,16 @@ Este repositório contém dashboards desenvolvidos no Power BI, com foco em estu
 
 <strong>Abaixo está a lista dos projetos desenvolvidos:</strong>
 
-[![Dashboard](https://img.shields.io/badge/1.%20Dashboard%20Vendas-black?style=flat-square)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashborad%20Vendas)<br>
-[![Dashboard](https://img.shields.io/badge/2.%20Dashboard%20y-black?style=flat-square)](link)<br>
-[![Dashboard](https://img.shields.io/badge/3.%20Dashboard%20z-black?style=flat-square)](link)
+[![Dashboard Comercial](https://img.shields.io/badge/1.%20Dashboard%20Comercial-black?style=flat-square)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Comercial)<br>
+[![Dashboard Marketing](https://img.shields.io/badge/2.%20Dashboard%20Marketing-black?style=flat-square)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Marketing)<br>
+[![Dashboard Vendas](https://img.shields.io/badge/3.%20Dashboard%20Vendas-black?style=flat-square)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashborad%20Vendas)<br>
+[![Dashboard Vendas](https://img.shields.io/badge/4.%20Dashboard%20Geral-black?style=flat-square)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Geral)
 
 ## 1. Dashboard Comercial
 
-![Video do dashboard](link)
+![Video do dashboard](https://github.com/vitoriapguimaraes/portifolio-PowerBI/blob/main/Dashboard%20Comercial/display-dashboardComercial.gif)
 
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](link)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Comercial)
 
 ### Estrutura da base de dados
 
@@ -37,9 +38,9 @@ Quantidade total dos dados: 457
 
 ## 2. Dashboard de Marketing
 
-![Video do dashboard](link)
+![Video do dashboard](https://github.com/vitoriapguimaraes/portifolio-PowerBI/blob/main/Dashboard%20Marketing/display-dashboardMarketing.gif)
 
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](link)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Marketing)
 
 ### Estrutura da base de dados
 
@@ -94,9 +95,9 @@ Quantidade total dos dados: 51.290
 
 ## 4. Dashboard Geral (de Vendas, Custo, Margem de Lucro e KPI)
 
-![Video do dashboard](link)
+![Video do dashboard](https://github.com/vitoriapguimaraes/portifolio-PowerBI/blob/main/Dashboard%20Geral/display-dashboardGeral.gif)
 
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](link)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Geral)
 
 ### Estrutura da base de dados
 Os seguintes arquivos relacionados foram utilizados:
