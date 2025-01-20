@@ -14,7 +14,62 @@ Este repositório contém dashboards desenvolvidos no Power BI, com foco em estu
 [![Dashboard](https://img.shields.io/badge/2.%20Dashboard%20y-black?style=flat-square)](link)<br>
 [![Dashboard](https://img.shields.io/badge/3.%20Dashboard%20z-black?style=flat-square)](link)
 
-## 1. Dashboard Analítico de Vendas
+## 1. Dashboard Comercial
+
+![Video do dashboard](link)
+
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](link)
+
+### Estrutura da base de dados
+
+Arquivo DadosComercial.csv contém inicialmente as seguintes colunas que foram relevantes para construção da análise:
+  - Categoria
+  - Estado
+  - Fabricantes
+  - Loja
+  - Segmento
+  - Total de Venda
+  - Vendedor
+
+Nenhuma nova coluna foi criada a partir dos dados.
+
+Quantidade total dos dados: 457
+
+## 2. Dashboard de Marketing
+
+![Video do dashboard](link)
+
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](link)
+
+### Estrutura da base de dados
+
+Arquivo DadosMarketing.csv contém inicialmente as seguintes colunas que foram relevantes para construção da análise:
+  - ID
+  - Comprou
+  - Data Cadastro
+  - Pais
+  - Salario Anual
+  - Escolaridade
+  - Estado Civil
+  - Filhos em Casa
+  - Adolescentes em Casa
+  - Gasto com Alimentos
+  - Gasto com Brinquedos
+  - Gasto com Eletronicos
+  - Gasto com Moveis
+  - Gasto com Utilidades
+  - Gasto com Vestuario
+  - Numero de Compras na Loja
+  - Numero de Compras na Web
+  - Numero de Compras via Catalogo
+  - Numero Visitas WebSites Mes
+
+Colunas criadas a partir dos dados:
+  - TotalGasto
+
+Quantidade total dos dados: 1.999
+
+## 3. Dashboard Analítico de Vendas
 
 ![Video do dashboard](https://github.com/vitoriapguimaraes/portifolio-PowerBI/blob/main/Dashborad%20Vendas/display-DashboardVendas.gif)
 
@@ -22,36 +77,51 @@ Este repositório contém dashboards desenvolvidos no Power BI, com foco em estu
 
 ### Estrutura da base de dados
 
-Arquivo dataset.csv contém inicialmente as seguintes colunas:
+Arquivo dataset.csv contém inicialmente contém inicialmente as seguintes colunas que foram relevantes para construção da análise:
+
   - ID_Pedido
   - Data_Pedido
-  - ID_Cliente
-  - Segmento
-  - Regiao
+  - Desconto
   - Pais
-  - Product ID
+  - Prioridade
   - Categoria
   - SubCategoria
   - Total_Vendas
-  - Quantidade
-  - Desconto
-  - Lucro
-  - Prioridade
 
 Nenhuma nova coluna foi criada a partir dos dados.
 
 Quantidade total dos dados: 51.290
 
-## 2. Dashboard 
+## 4. Dashboard Geral (de Vendas, Custo, Margem de Lucro e KPI)
 
 ![Video do dashboard](link)
 
 [![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](link)
 
 ### Estrutura da base de dados
-Arquivo xxx que contém inicialmente as seguintes colunas:
-Nenhuma nova coluna foi criada a partir dos dados. | Colunas criadas a partir dos dados:
-Quantidade total dos dados: xxx
+Os seguintes arquivos relacionados foram utilizados:
+    - Clientes.csv (1.590 linhas de dados)
+    - Pedidos.csv (25.035 linhas de dados)
+    - Produtos.csv (10.292 linhas de dados)
+    - Vendas.csv (51.290 linhas de dados)
+
+As seguintes colunas foram relevantes para construção da análise:
+  - [Clientes] Mercado
+  - [Pedidos] Data Pedido
+  - [Pedidos] Modo Envio
+  - [Produtos] Categoria
+  - [Vendas] Valor Venda
+  - [Vendas] Custo Envio
+  - [Vendas] Lucro
+  - [Vendas] MargemLucro
+
+Colunas criadas a partir dos dados:
+    - [Vendas] Lucro
+    - [Vendas] MargemLucro
+
+
+
+
 
 
 
