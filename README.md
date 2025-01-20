@@ -117,8 +117,8 @@ As seguintes colunas foram relevantes para construção da análise:
   - [Vendas] MargemLucro
 
 Colunas criadas a partir dos dados:
-    - [Vendas] Lucro
-    - [Vendas] MargemLucro
+  - [Vendas] Lucro
+  - [Vendas] MargemLucro
 
 
 
