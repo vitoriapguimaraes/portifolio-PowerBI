@@ -10,33 +10,19 @@ Este repositório contém dashboards desenvolvidos no Power BI, com foco em estu
 
 <strong>Abaixo está a lista dos projetos desenvolvidos:</strong>
 
-[![Dashboard Comercial](https://img.shields.io/badge/1.%20Dashboard%20Comercial-black?style=flat-square)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Comercial)<br>
-[![Dashboard Marketing](https://img.shields.io/badge/2.%20Dashboard%20Marketing-black?style=flat-square)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Marketing)<br>
+[![Dashboard Marketing](https://img.shields.io/badge/1.%20Dashboard%20Marketing-black?style=flat-square)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Marketing)<br>
+[![Dashboard Comercial](https://img.shields.io/badge/2.%20Dashboard%20Comercial-black?style=flat-square)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Comercial)<br>
 [![Dashboard Vendas](https://img.shields.io/badge/3.%20Dashboard%20Vendas-black?style=flat-square)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashborad%20Vendas)<br>
-[![Dashboard Geral](https://img.shields.io/badge/4.%20Dashboard%20Geral-black?style=flat-square)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Geral)
+[![Dashboard Geral](https://img.shields.io/badge/4.%20Dashboard%20Geral-black?style=flat-square)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Geral)<br>
+[![Dashboard RH](https://img.shields.io/badge/5.%20Dashboard%20RH-black?style=flat-square)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20RH)<br>
+[![Dashboard Segmentação](https://img.shields.io/badge/6.%20Dashboard%20Segmentação%20Clientes-black?style=flat-square)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Segmenta%C3%A7%C3%A3o%20Clientes)<br>
+[![Dashboard Logística](https://img.shields.io/badge/7.%20Dashboard%20Logística-black?style=flat-square)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Logistica)<br>
+[![Dashboard Financeiro](https://img.shields.io/badge/8.%20Dashboard%20Financeiro-black?style=flat-square)]([link](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Financeiro))<br>
+[![Dashboard Séries Temporais](https://img.shields.io/badge/9.%20Dashboard%20Séries%20Temporais-black?style=flat-square)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Series%20Temporais)<br>
+[![Dashboard Anomalias](https://img.shields.io/badge/10.%20Dashboard%20Anomalias-black?style=flat-square)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Anomalias)
 
-## 1. Dashboard Comercial
 
-![GIF do dashboard](https://github.com/vitoriapguimaraes/portifolio-PowerBI/blob/main/Dashboard%20Comercial/display-dashboardComercial.gif)
-
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Comercial)
-
-### Estrutura da base de dados
-
-Arquivo DadosComercial.csv contém inicialmente as seguintes colunas que foram relevantes para construção da análise:
-  - Categoria
-  - Estado
-  - Fabricantes
-  - Loja
-  - Segmento
-  - Total de Venda
-  - Vendedor
-
-Nenhuma nova coluna foi criada a partir dos dados.
-
-Quantidade total dos dados: 457
-
-## 2. Dashboard de Marketing
+## 1. Dashboard de Marketing
 
 ![GIF do dashboard](https://github.com/vitoriapguimaraes/portifolio-PowerBI/blob/main/Dashboard%20Marketing/display-dashboardMarketing.gif)
 
@@ -70,11 +56,33 @@ Colunas criadas a partir dos dados:
 
 Quantidade total dos dados: 1.999
 
+## 2. Dashboard Comercial
+
+![GIF do dashboard](https://github.com/vitoriapguimaraes/portifolio-PowerBI/blob/main/Dashboard%20Comercial/display-dashboardComercial.gif)
+
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Comercial)
+
+### Estrutura da base de dados
+
+Arquivo DadosComercial.csv contém inicialmente as seguintes colunas que foram relevantes para construção da análise:
+  - Categoria
+  - Estado
+  - Fabricantes
+  - Loja
+  - Segmento
+  - Total de Venda
+  - Vendedor
+
+Nenhuma nova coluna foi criada a partir dos dados.
+
+Quantidade total dos dados: 457
+
+
 ## 3. Dashboard Analítico de Vendas
 
-![GIF do dashboard](https://github.com/vitoriapguimaraes/portifolio-PowerBI/blob/main/Dashborad%20Vendas/display-DashboardVendas.gif)
+![GIF do dashboard](https://github.com/vitoriapguimaraes/portifolio-PowerBI/blob/main/Dashboard%20Vendas/display-dashboardVendas.gif)
 
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashborad%20Vendas)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Vendas)
 
 ### Estrutura da base de dados
 
@@ -124,9 +132,9 @@ Colunas criadas a partir dos dados:
 
 ## 5. Dashboard Analítico para RH
 
-![GIF do dashboard](https://github.com/vitoriapguimaraes/link)
+![GIF do dashboard](https://github.com/vitoriapguimaraes/portifolio-PowerBI/blob/main/Dashboard%20RH/display-dashboardRH.gif)
 
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](link)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20RH)
 
 ### Estrutura da base de dados
 Arquivo dadosRH.csv contém inicialmente as seguintes colunas que foram relevantes para construção da análise:
@@ -147,9 +155,9 @@ Quantidade total dos dados: 1.400
 
 ## 6. Dashboard da Segmentação Inteligente de Clientes com Machine Learning
 
-![GIF do dashboard](https://github.com/vitoriapguimaraes/link)
+![GIF do dashboard](https://github.com/vitoriapguimaraes/portifolio-PowerBI/blob/main/Dashboard%20Segmenta%C3%A7%C3%A3o%20Clientes/display-dashboardML.gif)
 
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](link)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Segmenta%C3%A7%C3%A3o%20Clientes)
 
 ### Estrutura da base de dados
 Segmentei os clientes em três grupos com base em similaridades para personalizar campanhas de marketing. O dashboard apresenta as médias de idade, renda anual e pontuação de gastos de cada segmento, utilizando técnicas de Machine Learning desenvolvidas em Python. Todo o processo está documentado no arquivo pythonMachineLearningPowerBI.ipynb e os dados utilizados estão no arquivo dadosML.txt:
@@ -162,9 +170,9 @@ Segmentei os clientes em três grupos com base em similaridades para personaliza
  
 ## 7. Dashboard de Logística
 
-![GIF do dashboard](https://github.com/vitoriapguimaraes/link)
+![GIF do dashboard](https://github.com/vitoriapguimaraes/portifolio-PowerBI/blob/main/Dashboard%20Logistica/display-dashboardLogistica.gif)
 
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](link)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Logistica)
 
 ### Estrutura da base de dados
 Arquivo dadosLogistica.csv contém inicialmente as seguintes colunas que foram relevantes para construção da análise:
@@ -184,9 +192,9 @@ Quantidade total dos dados: 53.770
 
 ## 8. Dashboard de Análise Financeira
 
-![GIF do dashboard](https://github.com/vitoriapguimaraes/link)
+![GIF do dashboard](https://github.com/vitoriapguimaraes/portifolio-PowerBI/blob/main/Dashboard%20Financeiro/display-dashboardFinanceiro.gif)
 
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](link)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Financeiro)
 
 ### Estrutura da base de dados
 Arquivo dadosFinanceiro.csv contém inicialmente contém as seguintes colunas que foram relevantes para construção da análise:
@@ -204,9 +212,9 @@ Quantidade total dos dados: 432
 
 ## 9. Dashboard Análise de Series Temporais
 
-![GIF do dashboard](https://github.com/vitoriapguimaraes/link)
+![GIF do dashboard](https://github.com/vitoriapguimaraes/portifolio-PowerBI/blob/main/Dashboard%20Series%20Temporais/display-dashboardSeriesTemporais.gif)
 
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](link)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Series%20Temporais)
 
 ### Estrutura da base de dados
 Arquivo Producao-2018-2023.xlsx contém inicialmente contém as seguintes colunas que foram relevantes para construção da análise:
@@ -222,9 +230,9 @@ Quantidade total dos dados: 868
 
 ## 10. Dashboard de Detecção de Anomalias em Transações Financeiras com Linguagem R
 
-![GIF do dashboard](https://github.com/vitoriapguimaraes/link)
+![GIF do dashboard](https://github.com/vitoriapguimaraes/portifolio-PowerBI/blob/main/Dashboard%20Anomalias/display-dashboardAnomalias.gif)
 
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](link)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-PowerBI/tree/main/Dashboard%20Anomalias)
 
 ### Estrutura da base de dados
 Agrupei as transações financeiras dos clientes usando Machine Learning em linguagem R e detectei possíveis anomalias com base em dados fictícios. O resultado foi apresentado visualmente por meio de gráficos no Power BI, facilitando a identificação de comportamentos atípicos nas transações. Os dados utilizados estão no arquivo dadosNovos.txt:
@@ -244,7 +252,7 @@ Acesse os arquivos disponíveis na pasta
 <!-- 
 Modelo:
 
-![GIF do dashboard](https://github.com/vitoriapguimaraes/link)
+![GIF do dashboard](link)
 
 [![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](link)
 
